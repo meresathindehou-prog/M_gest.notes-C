@@ -184,5 +184,3 @@ Les suggestions et améliorations sont les bienvenues !
 ## 📜 Licence
 
 Projet éducatif libre d'utilisation.
-
-```
