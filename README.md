@@ -1,3 +1,4 @@
+
 <h1 align="center">📊 Gestionnaire de Notes en C</h1>
 
 <p align="center">
@@ -65,10 +66,14 @@ Ce projet met en pratique les fondamentaux du développement logiciel en C avec 
 
 ## 🏗️ Structure
 
+```
+
 📁 gestionnaire-notes/
 │── main.c
 │── notes.txt
 │── README.md
+
+````
 
 ---
 
@@ -77,17 +82,19 @@ Ce projet met en pratique les fondamentaux du développement logiciel en C avec 
 ### 🔧 Compilation
 ```bash
 gcc main.c -o gestionnaire
+````
 
----
+### ▶️ Exécution
 
-▶️ Exécution
-
+```bash
 ./gestionnaire
+```
 
 ---
 
-🖥️ Interface (exemple)
+## 🖥️ Interface (exemple)
 
+```
 ===== MENU =====
 1. Ajouter une note
 2. Afficher les notes
@@ -98,62 +105,60 @@ gcc main.c -o gestionnaire
 7. Sauvegarder
 8. Charger
 0. Quitter
+```
 
 ---
 
-💡 Améliorations futures
-Validation des entrées
-Interface graphique
-Utilisation de struct
-Gestion dynamique (malloc)
-Export JSON / CSV
+## 💡 Améliorations futures
+
+* Validation des entrées
+* Interface graphique
+* Utilisation de `struct`
+* Gestion dynamique (`malloc`)
+* Export JSON / CSV
 
 ---
 
-🎓 Compétences développées
-Programmation en C
-Logique algorithmique
-Gestion de fichiers
-Structuration de projet
-Résolution de problèmes
+## 🎓 Compétences développées
+
+* Programmation en C
+* Logique algorithmique
+* Gestion de fichiers
+* Structuration de projet
+* Résolution de problèmes
 
 ---
 
-👨‍💻 Auteur
+## 👨‍💻 Auteur
 
-Mérès ATHINDEHOU
-
----
-
+**Mérès ATHINDEHOU**
 🎓 Étudiant en Informatique
-
 💻 Développeur Web & C
 
-🔗 GitHub : https://github.com/meresathindehou-prog/
-
-📧 Email : meresathindehou@gmail.com
+🔗 GitHub : [https://github.com/meresathindehou-prog/Meres](https://github.com/meresathindehou-prog/Meres)
+📧 Email : [meresathindehou@gmail.com](mailto:meresathindehou@gmail.com)
 
 ---
 
-🌍 English Version (Short)
-📊 Student Grade Manager in C
+## 🌍 English Version (Short)
+
+### 📊 Student Grade Manager in C
 
 A simple console application written in C that allows users to:
 
-Add, delete and display grades
-Calculate average, min and max
-Save and load data from files
+* Add, delete and display grades
+* Calculate average, min and max
+* Save and load data from files
+
+### 🛠 Tech
+
+* C Programming
+* File handling
+* Algorithms
 
 ---
 
-🛠 Tech
-C Programming
-File handling
-Algorithms
-
----
-
-⭐ Pourquoi ce projet ?
+## ⭐ Pourquoi ce projet ?
 
 Ce projet démontre ma capacité à :
 
@@ -163,19 +168,21 @@ Ce projet démontre ma capacité à :
 
 ---
 
-📌 Statut
+## 📌 Statut
 
 🟢 Terminé — Version 1.0
 🚀 Amélioration continue
 
 ---
 
-💬 Contribution
+## 💬 Contribution
 
 Les suggestions et améliorations sont les bienvenues !
 
 ---
 
-📜 Licence
+## 📜 Licence
 
 Projet éducatif libre d'utilisation.
+
+```
